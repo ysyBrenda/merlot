@@ -45,7 +45,7 @@ intersting:
 
 
 ```
-hope I CAN do：
+hope I CAN do:
 -Regular exercise
 -read book
 -Efficient
