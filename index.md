@@ -2,16 +2,19 @@
 layout: default
 ---
 
-90后， **处女座** _女生_.
+ **Virgo ** _girl_.
 
 [Link to another page](./another-page.html).
 
 
 # WELCOME~~
 
-这是我的第二个网页啦。可以记录生活，爱好，感想（maybe）。不过这个模板好像也不是blog的类型耶！不过我好像也不想写blog。
+This is my second page. I can record my life, hobbies and thoughts (maybe). But this template doesn't seem to be a blog type either! But I don't seem to want to write a blog either.
 
-可以写下一些规划呀，todo。 that‘s a good idea！
+I could write down some plans,todo. 
+
+that's a good idea!
+
 
 ## quoto~~
 
@@ -25,18 +28,19 @@ layout: default
 
 
 ```
-兴趣：
--音乐
+intersting:
+-music
 -piano
--美食
+-food
 ```
 
 
 ```
-希望自己能够做到：
--运动
--看书
--高效
+hope I CAN do：
+-Regular exercise
+-read book
+-Efficient
+-Balanced diet
 ```
 
 ```
