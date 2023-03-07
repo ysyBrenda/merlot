@@ -2,7 +2,7 @@
 layout: default
 ---
 
- **Virgo ** _girl_.
+ **Virgo** _girl_.
 
 [Link to another page](./another-page.html).
 
@@ -16,17 +16,25 @@ I could write down some plans,todo.
 that's a good idea!
 
 
+
+
 ## quoto~~
 
 > what doesn't kill me makes me stronger
 >
 
 
-### Cute Octocat~~
 
+
+## Cute Octocat~~
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
+
+#
 ```
 intersting:
 -music
