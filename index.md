@@ -4,7 +4,7 @@ layout: default
 
  **Virgo** _girl_.
 
-[Link to another page](./another-page.html).
+[Some things about creating this pages(using theme)](./another-page.html).
 
 
 # WELCOME~~
